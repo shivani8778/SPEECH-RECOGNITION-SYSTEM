@@ -34,3 +34,5 @@ The final output is printed on the screen: the transcribed text version of the s
 
 In conclusion, this project demonstrates how powerful and accessible speech recognition has become, thanks to pre-trained deep learning models and tools like Google Colab. With minimal code and setup, users can build a functional and accurate speech-to-text pipeline. This system can be extended for applications such as voice assistants, transcription services, accessibility tools, and more. Future enhancements may include live microphone input, support for multiple languages, or integrating a web interface using tools like Gradio or Flask.
 
+<img width="1217" height="392" alt="Image" src="https://github.com/user-attachments/assets/f5a380d8-93be-4fdf-80c6-df1e1b4dc353" />
+<img width="816" height="450" alt="Image" src="https://github.com/user-attachments/assets/9568cd70-73a0-4690-a5fe-6033075e6133" />
